@@ -6,6 +6,7 @@
 ### 3. cd ./PeverFit/PeverFit
 ### 4. npm i
 ### 5. npm i -g react-native
-### 6. cd ios and then pod install
-### 7. cd .
+### 6. cd ios 
+### 7. pod install
+### 7. cd ..
 ### 8. react-native ios-run
